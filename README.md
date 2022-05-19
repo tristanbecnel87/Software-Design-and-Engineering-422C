@@ -1,5 +1,6 @@
 # Software-Design-and-Engineering-422C
-Academic Projects created in 422C
+Academic Projects created while in the 422C class at UT Austin.
+
 Project 1 is solving 3 given problems.
 
 Project2 is coding the Mastermind game.
